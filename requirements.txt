@@ -1,0 +1,11 @@
+torch>=2.1
+transformers>=4.40
+datasets
+accelerate
+sentencepiece
+rouge-score
+fasttext
+numpy
+pandas
+rapidfuzz
+yfinance
